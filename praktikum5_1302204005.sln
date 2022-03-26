@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "praktikum5_1302204005", "praktikum5_1302204005\praktikum5_1302204005.csproj", "{F81C9E9C-7190-4B55-9018-00A1EB37009F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F81C9E9C-7190-4B55-9018-00A1EB37009F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F81C9E9C-7190-4B55-9018-00A1EB37009F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F81C9E9C-7190-4B55-9018-00A1EB37009F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F81C9E9C-7190-4B55-9018-00A1EB37009F}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16345CDF-225A-49CD-8E21-A5747D22A0C0}
+	EndGlobalSection
+EndGlobal
